@@ -1,0 +1,10 @@
+/* Estilos para la imagen */
+#image {
+    transition: all 0.3s ease;
+}
+
+/* Estilos para los botones */
+.btn-group .btn {
+    font-size: 16px;
+    font-weight: bold;
+}
